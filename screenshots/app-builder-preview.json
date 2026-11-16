@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "LANE",
+      "hasCanvas": false,
+      "bodyTextLen": 18788,
+      "bodyTextHash": "c67ff43d93f6bba00e073cc810321d91efc36859f0b4f0125fdf6c109fb58182",
+      "bodyTextPrefix": "LANE Five channels. One video at a time. Nothing recommended. Al",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "LANE",
+      "hasCanvas": false,
+      "bodyTextLen": 18788,
+      "bodyTextHash": "c67ff43d93f6bba00e073cc810321d91efc36859f0b4f0125fdf6c109fb58182",
+      "bodyTextPrefix": "LANE Five channels. One video at a time. Nothing recommended. Al",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
